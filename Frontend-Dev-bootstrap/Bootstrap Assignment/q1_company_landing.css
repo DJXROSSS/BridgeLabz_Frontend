@@ -1,0 +1,11 @@
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+img.rounded.shadow-sm {
+  transition: transform 0.3s ease;
+}
+
+img.rounded.shadow-sm:hover {
+  transform: scale(1.03);
+}

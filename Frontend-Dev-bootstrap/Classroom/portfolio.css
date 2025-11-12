@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  background-color: #33b5c7;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.navbar-custom {
+  background-color: #057786a0 !important;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+}
+
+.navbar-brand-custom {
+  font-weight: bold;
+}
+
+.nav-link-home {
+  font-weight: bold;
+  color: white !important;
+}
+
+.nav-link-custom {
+  color: white !important;
+}
+
+.home-section {
+  height: 100vh;
+  color: white;
+}
+
+.home-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.home-subtitle {
+  font-size: 1.25rem;
+}
+
+.download-btn {
+  border-radius: 30px;
+  font-weight: 500;
+}
+
+.about-section {
+  padding: 80px 0;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-title {
+  color: black;
+  font-weight: bolder;
+}
+
+.about-text {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #787676;
+  width: 60%;
+}
+
+.projects-section {
+  padding: 80px 0;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+.projects-title {
+  color: black;
+  font-weight: bold;
+}
+
+.card-custom {
+  border: none;
+}
+
+.card-title-custom {
+  font-weight: bold;
+}
+
+.contact-section {
+  padding: 80px 0;
+  background-color: #f8f9fa;
+}
+
+.contact-card {
+  border-radius: 15px;
+}
+
+.contact-title {
+  font-weight: bold;
+  color: #000000;
+}
+
+.form-input-custom {
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.form-textarea-custom {
+  padding: 12px;
+  border-radius: 8px;
+  resize: none;
+}
+
+.submit-btn {
+  background-color: #0898ff;
+  border: none;
+  border-radius: 8px;
+}
+
+.navbar-toggler-label {
+  color: white;
+}
